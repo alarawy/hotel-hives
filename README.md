@@ -32,6 +32,6 @@ It helps hotel staff manage rooms, guests, and reservations easily through a cle
 ---
 
 ## 🧠 Author
-Ahmed Codex (Codex)  
+Ahmed Reda (Al-arawy)  
 Frontend Developer | React Enthusiast  
-[GitHub](https://github.com/ahmedcodexx)
+[GitHub](https://github.com/alarawy)
